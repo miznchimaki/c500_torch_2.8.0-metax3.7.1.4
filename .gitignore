@@ -4,3 +4,5 @@
 /lib/libtorch_cuda.so
 /lib/libtorch_cpu.so
 /lib/libtorch_cuda.so
+/lib/libtorch_cpu.so
+/lib/libtorch_cuda.so
